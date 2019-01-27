@@ -1,3 +1,5 @@
 import os 
 
-pirnt(os.listdir())
+print(os.listdir())
+
+print('my name is sunjinong')
