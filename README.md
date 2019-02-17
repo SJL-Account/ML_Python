@@ -1,2 +1,2 @@
 # ML_Python
-Machine Learing Algorithm For Python Code
+Python Code For Machine Learing Algorithm 
